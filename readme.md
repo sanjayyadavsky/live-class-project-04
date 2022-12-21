@@ -34,4 +34,5 @@ Always try to clearfix parent element **and** some time we have to use overflow 
 ![alt text](./thumbnail.png)
 
 # Result
-![alt text](./assets/Screenshot%202022-12-21%20at%2011.35.53%20pm.png)
+![alt text](./assets/Screenshot%202022-12-21%20at%2011.59.12%20pm.png
+)
